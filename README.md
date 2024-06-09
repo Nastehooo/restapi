@@ -11,4 +11,4 @@ You can use the navigation bar to click onto the different pages such as dashboa
 
 # Future
 
-I want to have more advanced rest-api and ensure that it is good for the cars, drivers and claims.  
+I want to have more advanced rest-api and ensure that it is good for the cars, drivers and claims.  I want to put login pages and do more for this car-insurance companies. 
